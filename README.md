@@ -1,36 +1,22 @@
 ## Hello World I'm Muhammad Naufal 👋
 
-![Muhammad Naufal](img/github-header-image%20(1).png)
+![Muhammad Naufal](https://raw.githubusercontent.com/MuhammadNauf/MuhammadNauf/main/img/github-header-image%20(1).png)
 
 ![im fine](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc28xcW5jc3dtZ2Y2dXB0em9leHhrNG80dDFsbGI0bnQzOGpnZGZpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l22ysLe54hZP0wubek/giphy.gif)
-<!--
-**MuhammadNauf/MuhammadNauf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 - 🌱 I’m currently learning Laravel framework
 
-  ## Demo UI/UX Design Mobile Website
+## Demo UI/UX Design Mobile Website
 
 Berikut demo video proyek saya:
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/MuhammadNauf/UI-UX-Design-Mobile-Website/raw/main/2025-11-14%2017-37-36.mkv" type="video/x-matroska">
+<video width="640" height="360" controls preload="none">
+  <source src="https://raw.githubusercontent.com/MuhammadNauf/UI-UX-Design-Mobile-Website/main/2025-11-14%2017-37-36.mkv" type="video/x-matroska">
   Your browser does not support the video tag.
 </video>
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/MuhammadNauf/UI-UX-Design-Mobile-Website/raw/main/2025-11-14%2017-43-19.mkv" type="video/x-matroska">
+<video width="640" height="360" controls preload="none">
+  <source src="https://raw.githubusercontent.com/MuhammadNauf/UI-UX-Design-Mobile-Website/main/2025-11-14%2017-43-19.mkv" type="video/x-matroska">
   Your browser does not support the video tag.
 </video>
 
@@ -55,12 +41,12 @@ Berikut demo video proyek saya:
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white">
 
-
 ##### Sosial Media
-[![https://instagram.com/iamnaufal](https://skillicons.dev/icons?i=instagram)](https://instagram.com/iamnaufal) [![https://instagram.com/iamnaufal](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammad-naufal-995b2a363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/iamnaufal) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammad-naufal-995b2a363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ##### My Github Stats
-![Muhammad Naufal Github Stats](https://github-readme-stats.vercel.app/api?username=muhammadnauf&show_icons=true&theme=gruvbox)
+![Muhammad Naufal Github Stats](https://github-readme-stats.vercel.app/api?username=MuhammadNauf&show_icons=true&theme=gruvbox)
 
 <br clear="both">
 
@@ -73,6 +59,5 @@ Berikut demo video proyek saya:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadNauf/MuhammadNauf/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MuhammadNauf/MuhammadNauf/output/pacman-contribution-graph.svg">
 </picture>
-
 
 ###
