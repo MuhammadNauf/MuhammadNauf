@@ -20,6 +20,20 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Laravel framework
 
+  ## Demo UI/UX Design Mobile Website
+
+Berikut demo video proyek saya:
+
+<video width="640" height="360" controls>
+  <source src="https://github.com/MuhammadNauf/UI-UX-Design-Mobile-Website/raw/main/2025-11-14%2017-37-36.mkv" type="video/x-matroska">
+  Your browser does not support the video tag.
+</video>
+
+<video width="640" height="360" controls>
+  <source src="https://github.com/MuhammadNauf/UI-UX-Design-Mobile-Website/raw/main/2025-11-14%2017-43-19.mkv" type="video/x-matroska">
+  Your browser does not support the video tag.
+</video>
+
 ##### Skill
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,css,php,java,laravel,mysql,androidstudio)](https://skillicons.dev)
@@ -59,5 +73,6 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadNauf/MuhammadNauf/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MuhammadNauf/MuhammadNauf/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ###
